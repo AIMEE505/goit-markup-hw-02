@@ -135,3 +135,37 @@ body{
     
 
 }
+
+.footer{
+    background-color: #2e2f42;
+}
+
+.p-footer{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+.sfour {
+    background-color: #FFFFFFFF;
+}
+
+.button-filter{cursor: pointer;
+    background-color: #F4F4FD;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+}
+.button-filter:hover {
+    color: #FFFFFFFF;
+    background-color: #404BBF;
+}
+
+.button-filter:focus {
+    color: #FFFFFFFF;
+    background-color: #404BBF;
+}
+
+
