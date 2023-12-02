@@ -85,7 +85,7 @@ body{
     color: #ffffff;
 }
 
-button :hover{
+.button :hover{
     background-color: #404bbf;
 
 }
