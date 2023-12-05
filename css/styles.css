@@ -2,6 +2,7 @@
 :root{
     --brand-color: E5E5E5;
  --text-font-family: 'Roboto', sans-serif;
+
 }
 
 .logo {font-family: 'Raleway', sans-serif;
@@ -39,6 +40,11 @@
 .studio-link:hover {
     color: #404bbf; 
 }
+
+.studio-link:focus {
+    color: #404bbf; 
+}
+
 .contact-list{
     font-style: normal;
 }
@@ -54,8 +60,6 @@
 .mail:focus {
     color: #404bbf;
 }
-
-
 
 
 .meniu { list-style: none;
